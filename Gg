@@ -1,0 +1,73 @@
+print("WIKI LOGIN!!!")
+
+username = input("Username > ")
+
+password = input("Password > ")
+
+if username == "Elleda218ayl" and password == "insertsecurepasswordhere":
+
+  print('be active on the wiki rn.(plz)')
+
+elif username == "Kitsu432" and password == "theadofanever":
+
+  print('omg hey kitsu ily/very very p')
+
+elif username == "Asij123" and password == "iamasimp":
+
+  print("HI KIARA!!!!!!!!!1!😁")
+
+elif username == "Wendcrashaaa" and password == "akko'snumberonefan":
+
+  print("hello mother u are very cool!! 😎")
+
+elif username == "WORLDO-FYUUSHA-STAA!?" and password == "theemukinever":
+
+  print("HIHI OLI!!")
+
+elif username == "Seina732" and password == "volleyballgame":
+
+  print("hello my grammatical counterpart")
+
+elif username == "FlowerandMizukifan" and password == "fl0m11551lly":
+
+  print("HI FLOMI!!!!!!!!!")
+
+elif username == "Whalesshark" and password == "WHALESHARKSAREVERYSILLY!":
+
+  print("HI@!!!1 I HOPE YOU GET A BLAHAJ SOON!!!🦈🦈🦈🦈🦈")
+
+elif username == "Akkko" and password == "wendy'snumberonefan":
+
+  print("hi akko!!! u kinda scare me but i also wanna be friends!!!")
+
+elif username == "Seabluemoon" and password == "TEMPORARY":
+
+  print("U ARE COOL!!")
+
+elif username == "Mindywuzhere" and password == "catgirl":
+
+  print('HI!!! CATGIRL SUPREMACY!!!!')
+
+elif username == 'HonamisApplePie' and password == 'aplpi😋':
+
+  print('HI!!')
+
+elif username == 'Emukasa fan3926' and password == 'omroi😎':
+
+  print('U R VERY SILLY!!😎')
+
+elif username == 'Miss.Dizzie' and password == 'mafuchips':
+
+  print('U SHOULD ADVERTISE EMU AND MAFUCHIPS WITH buy three bags of mafuchips get one chip free 😎')
+
+elif username == 'TheSnakeThatSearsIntoEyes' and password == 'woahreptiles':
+
+  print('HI!! YIPPEE!!!')
+
+elif username == 'PancakeMoth' and password == 'walmoth':
+
+  print('HI!!+!!!! U R VERY SILLY 😎')
+
+else:
+
+  print('i will add u soon!!!')
